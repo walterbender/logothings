@@ -1,6 +1,6 @@
 # Nim
 
-## Nim: A game playing Program
+## Nim: A game playing program
 
 Here is an example of how the game is played.
 
@@ -15,7 +15,7 @@ history and go immediately to the program description.
 
 About a century ago (just kidding!) Papert and I taught seventh
 graders for our first year-long course. We didn’t have turtles; there
-were no graphics; we used model 33 and 35 teletypewriters. I didn't
+were no graphics; we used Model 33 and 35 teletypewriters. I didn't
 start out as the seventh grade teacher. A wonderful person began in
 the fall; she had very little exposure to Logo as a language and a
 culture. I eventually took over the teaching responsibilities and
