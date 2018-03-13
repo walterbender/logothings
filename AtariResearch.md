@@ -9,26 +9,34 @@ At the same time we also taught Atari Logo to children. About Logo is a video of
 Just before the lab shut down we made a 25-minute video of our work. I have divided that video into the following seven segments. (Notes on Atari.)
 
 Overview
+
 [![Atari 2](./images/video20.png)](https://youtu.be/CR2CwKculBU)
 
  Margaret on Gesture
+
 [![Atari 3](./images/video21.png)](https://youtu.be/-Wq6SQTVM9M)
 
- Ed on Gesture and Gary on object oriented Logo (Qlogo)
+Ed on Gesture and Gary on object oriented Logo (Qlogo)
+
 [![Atari 4](./images/video22.png)](https://youtu.be/ClKQHgIoLPc)
 
- Mike on dance movement,  Mark on puppetry, Max on force feedback.
+Mike on dance movement,  Mark on puppetry, Max on force feedback.
+
 [![Atari 5](./images/video23.png)](https://youtu.be/R3qPCZ5z0UQ)
 
- David on music
+David on music
+
 [![Atari 6](./images/video24.png)](https://youtu.be/ocwsVkqEKys)
 
- Tom and Jim on music
+Tom and Jim on music
+
 [![Atari 7](./images/video25.png)](https://youtu.be/DhA0FGsin_s)
 
- Marvin's reflections
+Marvin's reflections
+
 [![Atari 8](./images/video26.png)](https://youtu.be/7rg4a18svBQ)
 
+----
 
 We had a lot of wonderfully talented and fun-loving people working
 with us to build the children's playstation of the future. Here Greg
