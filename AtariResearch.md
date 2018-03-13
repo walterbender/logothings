@@ -1,18 +1,25 @@
 # Atari Cambridge Research
 
-Atari Cambridge Research 1982-84
-In this very short lived lab a group of us, many of whom had been part of the MIT AI Lab's Logo Group, imagined a children's playstation of the future. Videos below show pieces of our work.
-At the same time we also taught Atari Logo to children. About Logo is a video of one such experience in a California school.
+## Atari Cambridge Research 1982-84
+
+In this very short lived lab a group of us, many of whom had been part
+of the MIT AI Lab's Logo Group, imagined a children's playstation of
+the future. Videos below show pieces of our work.
+
+At the same time we also taught Atari Logo to children. About Logo is
+a video of one such experience in a California school.
 
 [![Atari 1](./images/video19.png)](https://youtu.be/nisFUjnO87g)
 
-Just before the lab shut down we made a 25-minute video of our work. I have divided that video into the following seven segments. (Notes on Atari.)
+Just before the lab shut down we made a 25-minute video of our work. I
+have divided that video into the following seven segments. (Notes on
+Atari.)
 
 Overview
 
 [![Atari 2](./images/video20.png)](https://youtu.be/CR2CwKculBU)
 
- Margaret on Gesture
+Margaret on gesture
 
 [![Atari 3](./images/video21.png)](https://youtu.be/-Wq6SQTVM9M)
 
@@ -20,7 +27,7 @@ Ed on Gesture and Gary on object oriented Logo (Qlogo)
 
 [![Atari 4](./images/video22.png)](https://youtu.be/ClKQHgIoLPc)
 
-Mike on dance movement,  Mark on puppetry, Max on force feedback.
+Mike on dance movement, Mark on puppetry, Max on force feedback.
 
 [![Atari 5](./images/video23.png)](https://youtu.be/R3qPCZ5z0UQ)
 
