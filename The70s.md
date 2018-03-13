@@ -290,7 +290,7 @@ Celebrating TI Logo in 1981
 
 ![seymourti.jpg](./images/seymourti.jpg)
 
-![Atari Cambridge Research 1982-84](https://logothings.wikispaces.com/Atari%20Cambridge%20Research)
+![Atari Cambridge Research 1982-84](AtariResearch.md)
 
 ## TI Sprite Logo 1978-9
 
