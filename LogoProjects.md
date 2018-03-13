@@ -1,8 +1,10 @@
 # Welcome, Logo Friends.
 
-The programs written for these projects run in MicroWorlds EX (or EX
-Robotics) and PyoLogo. But I hope I've written them so that they are
-easily adapted for other versions of Logo.
+The programs written for these projects run in [MicroWorlds
+EX](http://www.microworlds.com/solutions/demo_ex.html) (or [EX
+Robotics](http://www.microworlds.com/solutions/demo_ex_rob.html)) and
+[PyoLogo](http://wiki.laptop.org/go/PyoLogo). But I hope I've written
+them so that they are easily adapted for other versions of Logo.
 
 Some of the programs were written in different versions of
 Logo. Converting them has often been "hard fun".
@@ -13,26 +15,26 @@ Solomon
 
 ## <a name="TOC"></a> Projects
 
-* ![Argue](./logo/Argue.md)
-* ![Sticks](./logo/Sticks.md)
-* ![Race Game](./logo/RaceGame.md)
-* ![Polygon Squares](./logo/PolygonSquares.md)
-* ![Stacking Squares](./logo/StackingSquares.md)
-* ![Birthday.Party](./logo/BirthdayParty.md)
-* ![Tri-agons](./logo/Tri-agons.md)
-* ![Regular Polygons](./logo/RegularPolygons.md)
-* ![Poly, Poly, Poly](./logo/PolyPolyPoly.md)
-* ![Squashed.Squares](./logo/SquashedSquares.md)
-* ![Turtles in a Circle](./logo/TurtlesInACircle.md)
-* ![Arrow Keys](./logo/ArrowKeys.md)
-* ![Nim](./logo/Nim.md)
-* ![A Frogger Game](./logo/FroggerGame.md)
-* ![The Shed School](./logo/TheShedSchool.md)
-* ![Claymation](./logo/Claymation.md)
-* ![Making Faces](./logo/MakingFaces.md)
-* ![Math Drills](./logo/MathDrills.md)
-* ![Matching Game](./logo/MatchingGame.md)
-* ![Castle](./logo/Castle.md)
+* [Argue](./logo/Argue.md)
+* [Sticks](./logo/Sticks.md)
+* [Race Game](./logo/RaceGame.md)
+* [Polygon Squares](./logo/PolygonSquares.md)
+* [Stacking Squares](./logo/StackingSquares.md)
+* [Birthday.Party](./logo/BirthdayParty.md)
+* [Tri-agons](./logo/Tri-agons.md)
+* [Regular Polygons](./logo/RegularPolygons.md)
+* [Poly, Poly, Poly](./logo/PolyPolyPoly.md)
+* [Squashed.Squares](./logo/SquashedSquares.md)
+* [Turtles in a Circle](./logo/TurtlesInACircle.md)
+* [Arrow Keys](./logo/ArrowKeys.md)
+* [Nim](./logo/Nim.md)
+* [A Frogger Game](./logo/FroggerGame.md)
+* [The Shed School](./logo/TheShedSchool.md)
+* [Claymation](./logo/Claymation.md)
+* [Making Faces](./logo/MakingFaces.md)
+* [Math Drills](./logo/MathDrills.md)
+* [Matching Game](./logo/MatchingGame.md)
+* [Castle](./logo/Castle.md)
 
 ----
 
