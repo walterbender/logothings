@@ -11,3 +11,7 @@ Introduction
 [Squiggling](./logo/Squiggling.md)
 
 ![curve13.png](./images/curve13.png)
+
+----
+
+[Back to Home Page](Home.md)

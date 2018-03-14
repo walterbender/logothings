@@ -38,3 +38,7 @@ OLPC 4: [Questioning “General” Education](https://www.scribd.com/document/93
 OLPC 5: [Education and Psychology](https://www.scribd.com/document/93575561/OLPCMEMO5)
 
 LogoWorks: [Preface](https://www.scribd.com/document/53229033/preface)
+
+----
+
+[Back to Home Page](Home.md)

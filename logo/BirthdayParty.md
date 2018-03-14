@@ -258,3 +258,6 @@ if empty? :hist [op []]
 op se se bl first :hist thing first :hist printout bf :hist
 end
 </pre>
+
+----
+[Back to Logo Projects](../LogoProjects.md)

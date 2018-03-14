@@ -182,3 +182,6 @@ end
 </pre>
 
 ## Nim: Computer as Player
+
+----
+[Back to Logo Projects](../LogoProjects.md)

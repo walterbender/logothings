@@ -286,3 +286,5 @@ end
 
 Notice dazzle makes eight squares turning 45 degrees between each square.
 
+----
+[Back to Logo Projects](../LogoProjects.md)

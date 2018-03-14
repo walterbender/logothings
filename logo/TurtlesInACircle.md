@@ -95,3 +95,7 @@ by using the left and right arrow keys. Then by pressing the space the
 player is asked how many steps the turtle takes. If the aim is good
 and the step estimate is good then the object on the circle changes
 shape. The player continues until all ring objects have changed.
+
+----
+
+[Back to Logo Projects](../LogoProjects.md)

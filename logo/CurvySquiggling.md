@@ -17,3 +17,9 @@
 ![bump8.png](../images/bump8.png)
 
 ![bumps9.png](../images/bumps9.png)
+
+
+----
+[Back to OLPC Turtle](OLPCIntro.md)
+
+[Back to Logo Projects](../LogoProjects.md)

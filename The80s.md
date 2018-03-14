@@ -268,13 +268,6 @@ implementation with help from the others.
 
 ## [Atari Cambridge Research 1982-84](AtariResearch.md)
 
+----
 
-
-
-
-
-
-
-
-
-
+[Back to Home Page](Home.md)

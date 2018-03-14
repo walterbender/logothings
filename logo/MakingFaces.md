@@ -22,3 +22,6 @@ fact, I didn't have to do such a thing. It does look nicer but I
 didn't have to do it.
 
 [![Faces 2](../images/video79.png)](https://youtu.be/2ITKPa_jS8o)
+
+----
+[Back to Logo Projects](../LogoProjects.md)

@@ -35,3 +35,6 @@ The design on the lower right needed more.
 setpensize 1
 setc "red
 </pre>
+
+----
+[Back to Logo Projects](../LogoProjects.md)

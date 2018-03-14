@@ -324,3 +324,6 @@ end
 * Alternate the number of exercises presented.
 * Keep track of the hard ones.
 * Change the visual feedback. And so on.
+
+----
+[Back to Logo Projects](../LogoProjects.md)

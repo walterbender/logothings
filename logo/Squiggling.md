@@ -55,3 +55,8 @@ Finally my friend showed me how to get the S-curve.
 ![squigarc1.png](../images/squigarc1.png)
 
 ## [S-Curve Squigglys](SCurveSquigglys.md)
+
+----
+[Back to OLPC Turtle](OLPCIntro.md)
+
+[Back to Logo Projects](../LogoProjects.md)

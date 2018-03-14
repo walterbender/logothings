@@ -303,3 +303,7 @@ In 1980 Marvin, Seymour, me and a couple of Canadians started Logo
 Computer Systems.
 
 ![tilogo.gif](./images/tilogo.gif)
+
+----
+
+[Back to Home Page](Home.md)

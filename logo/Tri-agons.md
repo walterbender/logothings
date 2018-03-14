@@ -42,3 +42,7 @@ Continuing on ...
 and more ...
 
 [![Triagons 3](../images/video50.png)](https://youtu.be/8fhLwIhwmE4)
+
+----
+
+[Back to Logo Projects](../LogoProjects.md)

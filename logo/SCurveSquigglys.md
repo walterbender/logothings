@@ -17,3 +17,8 @@
 ![curve10.png](../images/curve10.png)
 
 ![curve12.png](../images/curve12.png)
+
+----
+[Back to OLPC Turtle](OLPCIntro.md)
+
+[Back to Logo Projects](../LogoProjects.md)

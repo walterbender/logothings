@@ -75,3 +75,7 @@ How do you design and set up your own game?
 [![polygons.jpg](./images/polygons.jpg)](./logo/RegularPolygons.md)
 
 Regular Polygons
+
+----
+
+[Back to Home Page](Home.md)

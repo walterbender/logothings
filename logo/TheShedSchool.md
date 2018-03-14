@@ -158,3 +158,7 @@ students were surprisingly poised and thoughtful in their
 answers. Afterwards, they got a chance to show individual attendees
 how they made music and animations. They also showed how they knit
 everything together.
+
+----
+
+[Back to Logo Projects](../LogoProjects.md)

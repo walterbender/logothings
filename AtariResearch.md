@@ -66,3 +66,7 @@ describes a puppet machine.
 It never worked but stood as a model and in 1982 Mark Gross built and
 programmed a different puppet machine as can be seen on an Atari
 video.
+
+----
+
+[Back to Home Page](Home.md)

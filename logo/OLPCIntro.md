@@ -82,3 +82,6 @@ Click
 
 ![usingsq7.png](../images/usingsq7.png)
 ![usingsq9.png](../images/usingsq9.png)
+
+----
+[Back to Logo Projects](../LogoProjects.md)

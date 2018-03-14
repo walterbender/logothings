@@ -19,9 +19,13 @@ today.
 
 Terms of Use:
 
-The On Logo and On LogoWriter videos are copyright Media Microworlds
-Inc. They are being made available here on the Logo Foundation website
-for personal and educational use only. Credits on the videos must
-remain, as originally configured. No fees may be charged for
-viewing. No advertisements may be attached to or superimposed on the
-video content without further permission.
+The *On Logo* and *On LogoWriter* videos are copyright Media
+Microworlds Inc. They are being made available here on the Logo
+Foundation website for personal and educational use only. Credits on
+the videos must remain, as originally configured. No fees may be
+charged for viewing. No advertisements may be attached to or
+superimposed on the video content without further permission.
+
+----
+
+[Back to Home Page](Home.md)

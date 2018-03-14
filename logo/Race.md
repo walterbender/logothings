@@ -39,3 +39,5 @@ end
 
 ![race.end.jpg](../images/race.end.jpg)
 
+----
+[Back to Logo Projects](../LogoProjects.md)

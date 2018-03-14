@@ -162,3 +162,7 @@ Date: September 1978
 PS Download: [ftp://publications.ai.mit.edu/ai-publications/0-499/AIM-496.ps](ftp://publications.ai.mit.edu/ai-publications/0-499/AIM-496.ps)  
 PDF Download: [ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-496.pdf](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-496.pdf)  
 Abstract: In this proposal we describe a technological step towards the realization of INFORMATION PROSTHETICS. Our primary focus is on using rather than making the technology. Specifically, our goal is to transpose for the use of cerebral-palsied children a computer- based learning environment we have developed, and to study in this environment a series of issues in developmental psychology, in the psychology of learning, in psycho-diagnostic techniques and in methods of instruction.</div>
+
+----
+
+[Back to Home Page](Home.md)

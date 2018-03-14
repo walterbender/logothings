@@ -31,12 +31,5 @@ Here is another look at regular polygons.
 
 [![Polygons](../images/video58.png)](https://youtu.be/KKI92g_LEng)
 
-
-
-
-
-
-
-
-
-
+----
+[Back to Logo Projects](../LogoProjects.md)
