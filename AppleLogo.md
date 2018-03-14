@@ -2,8 +2,8 @@
 
 ## Introduction to Programming through Turtle Graphics
 
-[![Download](./images/pdf.png)](./documents/Apple Logo.pdf)
-[Download](./documents/Apple Logo.pdf)
+[![Download](./images/pdf.png)](./documents/Apple_Logo.pdf)
+[Download](./documents/Apple_Logo.pdf)
 
 This manual was published in 1982 to accompany the first release of
 Apple Logo for the Apple II computer. Although I was the main author

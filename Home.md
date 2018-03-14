@@ -13,9 +13,8 @@
 9. [Marvin on Education](MarvinEducation.md)
 10. [Logo Projects](LogoProjects.md)
 11. [Turtle Art at One Laptop per Child](TurtleOLPC.md)
-12. [Contact Me](Contact.md)
-13. [Papers](Papers.md)
-14. [Books](Books.md)
+12. [Books and Papers](Books.md)
+13. [Contact Me](Contact.md)
 
 <a name="HOME"></a>
 
