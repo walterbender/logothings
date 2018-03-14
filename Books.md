@@ -10,10 +10,11 @@ Papert "Decision Makers" (1970) ![PDF](./images/pdf.png) [Download](./documents/
 
 ## Books
 
+[Computer Environments for Children](./computerenvironments/Home.md)
+
 [LogoWorks](./logoworks/Home.md)
 
 [Apple Logo](AppleLogo.md)
-
 
 ----
 
