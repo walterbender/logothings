@@ -28,4 +28,4 @@ superimposed on the video content without further permission.
 
 ----
 
-[Back to Home Page](Home.md)
+![logothings](./images/logo-shadow-40.png) [Back to Home Page](Home.md)

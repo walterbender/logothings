@@ -21,4 +21,4 @@ and an Appendix and Index.
 
 [Back to Books and Papers Page](Books.md)
 
-[Back to Home Page](Home.md)
+![logothings](./images/logo-shadow-40.png) [Back to Home Page](Home.md)

@@ -1,5 +1,7 @@
 # Logo Things
 
+![logothings](./images/logo-shadow-40.png)logothings
+
 ## <a name="TOC"></a> Table of Contents
 
 1. [Home](#HOME)

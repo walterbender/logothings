@@ -37,4 +37,4 @@ Eric Solomon talks with Marvin.
 
 ----
 
-[Back to Home Page](Home.md)
+![logothings](./images/logo-shadow-40.png) [Back to Home Page](Home.md)
