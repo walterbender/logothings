@@ -1,4 +1,4 @@
-#Poly
+# Poly
 
 Here are some notes on using a general polygon procedure. Introduction
 is not yet ready.
@@ -31,7 +31,11 @@ setpensize 10
 setc "yellow
 setpensize 5
 setc "green
+</pre>
+
 The design on the lower right needed more.
+
+<pre>
 setpensize 1
 setc "red
 </pre>
