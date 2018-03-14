@@ -2,9 +2,11 @@
 
 ## Papers
 
+[Logo Computer Cultures](LogoComputerCultures.md)
+
 [Readings from the AI Lab, 60s through 70s](Papers.md)
 
-Papert "Decision Makers" (1970) [![PDF](./images/pdf.png)](./documents/PapertDecisionMaker.pdf)[Download](./documents/PapertDecisionMaker.pdf)
+Papert "Decision Makers" (1970) ![PDF](./images/pdf.png)[Download](./documents/PapertDecisionMaker.pdf)
 
 ## Books
 

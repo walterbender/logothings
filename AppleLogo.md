@@ -19,4 +19,6 @@ and an Appendix and Index.
 
 ----
 
+[Back to Books and Papers Page](Books.md)
+
 [Back to Home Page](Home.md)
