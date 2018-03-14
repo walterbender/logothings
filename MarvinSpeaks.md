@@ -30,7 +30,7 @@ Paul Hoffman asks Marvin about the first computer he built.
 Marvin points to an education problem.
 
 [![Marvin 5](./images/video40.png)](https://youtu.be/S72xF3gd-mI)
-.
+
 Eric Solomon talks with Marvin.
 
 [![Marvin 6](./images/video41.png)](https://player.vimeo.com/video/34909900)
