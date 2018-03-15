@@ -6,7 +6,7 @@ Markdown and posted it here.
 
 ----
 
- Things
+# Logo Things
 
 ![logothings](./images/logo-shadow-40.png)logothings
 
