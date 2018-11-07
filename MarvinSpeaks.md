@@ -27,7 +27,7 @@ Paul Hoffman asks Marvin about the first computer he built.
 
 [![Marvin 4](./images/video39.png)](https://youtu.be/yZRQQl8mA0c)
 
-Marvin points to an education problem.
+Marvin points to an education problem. [READ TRANSCRIPT](Video-Transcripts.md#Education-Theory)
 
 [![Marvin 5](./images/video40.png)](https://youtu.be/S72xF3gd-mI)
 
