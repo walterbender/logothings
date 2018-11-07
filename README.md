@@ -158,11 +158,9 @@ Here Seymour talks about Logo and Basic.
 
 [![Logo for Kids](./images/video4.png)](https://youtu.be/fh4H3pdP3mI)
 
-Seymour articulates the goals for Logo the language.  
+Seymour articulates the goals for Logo the language. [READ TRANSCRIPT](Video-Transcripts.md#Logo-Goals)
 
 [![Logo Goals](./images/video5.png)](https://youtu.be/c2S1fMxzyRA)
-
-[Video Transcript of "Logo Goals"](Video-Transcripts.md)
 
 ![X.png](./images/X.png "X.png")
 
