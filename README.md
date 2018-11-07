@@ -162,6 +162,8 @@ Seymour articulates the goals for Logo the language.
 
 [![Logo Goals](./images/video5.png)](https://youtu.be/c2S1fMxzyRA)
 
+[Video Transcript of "Logo Goals"](Video-Transcripts.md)
+
 ![X.png](./images/X.png "X.png")
 
 [Seymour gives a lesson on Logo and Turtle Geometry.](https://logothings.wikispaces.com/An%20Introduction%20to%20Logo%20and%20Turtle%20Geometry)
