@@ -104,7 +104,7 @@ PDP-11](https://en.wikipedia.org/wiki/PDP-11) with special
 turtle graphics stations which we showed at a math education
 conference in Exeter, England. It was the summer of 1972 and a group
 of us including Hal Abelson, Ron Lebel, Tom Knight, Margaret Minsky,
-and Erric Solomon went with the equipment four weeks before the
+and Eric Solomon went with the equipment four weeks before the
 conference. We set up Logo classes working with Exeter kids. Jeanne
 Bamberger and Seymour joined us a week before the conference. (Ron
 Lebel was the major hardware and software person. He chose to adapt
@@ -134,7 +134,7 @@ The school project involved 5 classes, high school, junior high, and
 elementary. The students were using Telcomp a language similar to
 Basic except it was an interpreter. Seymour visited several classes
 and was particularly struck by the absurdity of students using an
-algembraic programminb language to learn algebra. He declared that
+algebraic programming language to learn algebra. He declared that
 children needed a language designed for them. And so Logo was
 invented.  The idea was borne in 1966 and Logo was ready for kids in
 1967.
@@ -142,7 +142,7 @@ invented.  The idea was borne in 1966 and Logo was ready for kids in
 Seymour taught a summer workshop to a group of 5th graders. Wally and
 I observed. I took copious notes and gave Seymour daily feedback. Logo
 was totally redesigned.  In 1968-69 Seymour and I co-taught a group of
-7th graders. At the end of te year Seymour declared we needed turtles!
+7th graders. At the end of the year Seymour declared we needed turtles!
 
 I joined Seymour at MIT where he was a professor in the Applied Math
 Department. The Logo Group as part of the MIT Artificial Intelligence
