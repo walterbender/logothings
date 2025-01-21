@@ -156,4 +156,4 @@ Seymour articulates the goals for Logo the language.
 
 ![X.png](./images/X.png "X.png")
 
-[Seymour gives a lesson on Logo and Turtle Geometry.](https://logothings.wikispaces.com/SeymourIntroduces.md)
+[Seymour gives a lesson on Logo and Turtle Geometry.](SeymourSpeaks.md)
